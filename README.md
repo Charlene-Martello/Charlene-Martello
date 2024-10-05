@@ -27,22 +27,22 @@
 
 ## 👨‍💻 About Me
 
-💬 I have a degree in Mathematics and currently work in the education sector, but I am transitioning careers.
-💻 I’m interested in technology, especially in how it facilitates and enhances data analysis.
-🌱 I am currently taking a Data Scientist professional course at EBAC.
-📫 How to contact me: [charlene.martello123@gmail.com]
-😄 Pronouns: [She/Her]
+- 💬 I have a degree in Mathematics and currently work in the education sector, but I am transitioning careers.
+- 💻 I’m interested in technology, especially in how it facilitates and enhances data analysis.
+- 🌱 I am currently taking a Data Scientist professional course at EBAC.
+- 📫 How to contact me: [charlene.martello123@gmail.com]
+- 😄 Pronouns: [She/Her]
 
 ## 🚀 Skills
--Python
--SQL
--Numpy
--Pandas
--Matplotlib
--Seaborn
--Crisp-dm
--Streamlit
--Scikit Learn
+- Python
+- SQL
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- Crisp-dm
+- Streamlit
+- Scikit Learn
 
 ## 📫 Find Me
 
